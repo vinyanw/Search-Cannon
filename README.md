@@ -4,6 +4,7 @@ Search Cannon é um projeto pessoal que busca aprendizado no desenvolvimento de 
 Este é um jogo experimental de física onde o objetivo é realizar buscas no Google de uma maneira não convencional. Em vez de digitar, você utiliza um canhão para lançar letras e formar palavras diretamente na barra de pesquisa.
 
 Este projeto foi criado com o objetivo de estudar o ciclo completo de desenvolvimento de jogos, desde a concepção do GDD até a implementação técnica.
+
 🎯 Objetivos de Aprendizado
 
     GDD (Game Design Document): Documentação clara das mecânicas.
